@@ -1,4 +1,4 @@
-***https://iam-sandipmaity.github.io/Java/
+https://iam-sandipmaity.github.io/Java/
 ---
 
 ## Sandip's Java Journey 🌟
