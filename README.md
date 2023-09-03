@@ -24,5 +24,3 @@ If you're as excited as I am about the endless possibilities of web development,
 Thanks for stopping by, and happy coding! 🤓✨
 
 ---
-
-Feel free to customize this description to suit your style and personality. Keep up the great work, and continue to share your knowledge with the world! 👏🌐
